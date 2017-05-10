@@ -412,6 +412,9 @@ http://item.jd.com/10372998311.html
 * 《React Native：用JavaScript开发移动应用》
 http://item.jd.com/11785195.html
 
+* 《React 入门教程（Gitbook）》
+https://hulufei.gitbooks.io/react-tutorial/content/environment.html
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
