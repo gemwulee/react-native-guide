@@ -108,6 +108,9 @@ http://www.lcode.org/react-native/
 * react native redux FeInn 从0到1让你学会搭建一个APP
 https://github.com/febobo/react-native-redux-FeInn
 
+* react native 中文网
+http://reactnative.cn
+
 ### React.js
 
 * react.js中文文档
